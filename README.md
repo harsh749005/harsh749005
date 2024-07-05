@@ -25,7 +25,8 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="30" alt="node js logo"  />     
   <img width="12" />
-
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg"  height="30" alt="node js logo"/>
+   
 </div>
 
 ###
