@@ -1,6 +1,6 @@
 <h2 align="left">Hi 👋! My name is Harsh and I'm interested in FullStack,HMTL,CSS,Tailwind </h2>
 
-###
+
 
 
 <img alt="Coder GIF" height=250 width=350 src="https://qph.cf2.quoracdn.net/main-qimg-2719b077f47664e19436779c46f8e750" />
@@ -8,7 +8,7 @@
 
 <img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
-###
+
 
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100" width="100"  alt="javascript logo"  />
