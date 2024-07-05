@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Harsh and I'm interested in FullStack,HMTL,CSS,Tailwind </h2>
 
 ###
 
