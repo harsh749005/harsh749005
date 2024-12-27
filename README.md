@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Harsh and I'm interested in FullStack,HMTL,CSS,Tailwind </h2>
+<h2 align="left">Welcome to my profile, I'm Harsh Patel , Full stack developer </h2>
 
 
 
