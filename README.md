@@ -1,31 +1,38 @@
-<h2 align="left">Welcome to my profile, I'm Harsh Patel , Full stack developer </h2>
+<h2 align="left">👋 Hey, I’m Harsh Patel! </h2>
+
+## Fullstack Developer | Aspiring Flutter Developer 
 
 
+🚀 **Building the future of decentralized applications**   
+💡Passionate about building Scalable Apps and WebSote   
+👨‍💻 Currently working as a **Full Stack Developer at [Axamine AI](https://www.axamine.in/)**    
+🎯 Open to collaborations on **End-to-End Product Development, MVPs, and Innovative Tech Solutions**  
 
+---  
 
+## 🔥 Current Projects:  
+**Food Delivery** - A platform where people can but food and sell  
+**Pet Selling** - A website for selling and buying pets  
+
+## 🛠️ Tech Stack:
+
+### Frontend:
+- ⚛️ React
+- 🔥 Next.js
+- Tailwind
+
+### Backend & APIs:
+- 🟢 Node.js
+- 💼 Express.js
+### Database:
+- MongoDB 
+- MySql
+- PostreSQL Neon DB
+### App Development
+- Flutter 
 <img alt="Coder GIF" height=250 width=350 src="https://qph.cf2.quoracdn.net/main-qimg-2719b077f47664e19436779c46f8e750" />
 
-<img alt="Coder GIF" height=250 width=350 src="https://images.squarespace-cdn.com/content/v1/5769fc401b631bab1addb2ab/1541580611624-TE64QGKRJG8SWAIUS7NS/ke17ZwdGBToddI8pDm48kPoswlzjSVMM-SxOp7CV59BZw-zPPgdn4jUwVcJE1ZvWQUxwkmyExglNqGp0IvTJZamWLI2zvYWH8K3-s_4yszcp2ryTI0HqTOaaUohrI8PI6FXy8c9PWtBlqAVlUS5izpdcIXDZqDYvprRqZ29Pw0o/coding-freak.gif" />
 
-
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="100" width="100"  alt="javascript logo"  />
-  <img width="12" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="100" width="100"  alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="100" width="100" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg"height="100" width="100" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nodejs/nodejs-plain-wordmark.svg" height="100" width="100" alt="node js logo"  />     
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original-wordmark.svg" height="100" width="100" alt="tailwind logo"  />
-</div>
-
-###
-<h3 align="center">A passionate frontend developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=harsh749005&label=Profile%20views&color=0e75b6&style=flat" alt="harsh749005" /> </p>
 
