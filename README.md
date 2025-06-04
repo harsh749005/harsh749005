@@ -11,8 +11,8 @@
 ---  
 
 ## 🔥 Current Projects:  
+**Ghost Safe** - A website for private safe  
 **Food Delivery** - A platform where people can but food and sell  
-**Pet Selling** - A website for selling and buying pets  
 
 ## 🛠️ Tech Stack:
 
