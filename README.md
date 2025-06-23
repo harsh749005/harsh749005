@@ -12,7 +12,7 @@
 ## 🔥 Current Projects:  
 **Ghost Safe** - A website for private safe    
 Check out the live demo: [GhostSafe](https://ghost-safe.vercel.app/)   
-**Food Delivery** - A platform where people can but food and sell  
+**Food Delivery** - A platform where people can buy food and sell  
 
 ## 🛠️ Tech Stack:
 
