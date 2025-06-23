@@ -3,8 +3,7 @@
 ## Fullstack Developer | Aspiring Flutter Developer 
 
 
-🚀 **Building the future of decentralized applications**   
-💡Passionate about building Scalable Apps and WebSote   
+💡**Passionate about building Scalable Apps and WebSote**   
 👨‍💻 Currently working as a **Full Stack Developer at [Axamine AI](https://www.axamine.in/)**    
 🎯 Open to collaborations on **End-to-End Product Development, MVPs, and Innovative Tech Solutions**  
 
