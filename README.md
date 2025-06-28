@@ -12,6 +12,8 @@
 ## 🔥 Current Projects:  
 **Ghost Safe** - A website for private safe    
 Check out the live demo: [GhostSafe](https://ghost-safe.vercel.app/)   
+**DataDigest** - A smart CSV/Excel analyzer  
+Check out the live demo - [DataDigest](https://data-digest.vercel.app/)  
 **Food Delivery** - A platform where people can buy food and sell  
 
 ## 🛠️ Tech Stack:
