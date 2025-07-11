@@ -31,7 +31,7 @@ Check out the live demo - [DataDigest](https://data-digest.vercel.app/)
 - MySql
 - PostreSQL Neon DB
 ### App Development
-- Flutter 
+- Aspiring Flutter developer 
 <img alt="Coder GIF" height=250 width=350 src="https://qph.cf2.quoracdn.net/main-qimg-2719b077f47664e19436779c46f8e750" />
 
 
