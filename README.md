@@ -17,7 +17,6 @@ Check out the live demo - [DataDigest](https://data-digest.vercel.app/)
 **Food Delivery** - A platform where people can buy food and sell  
 
 ## 🛠️ Tech Stack:
-
 ### Frontend:
 - ⚛️ React
 - 🔥 Next.js
